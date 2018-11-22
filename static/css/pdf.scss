@@ -5,7 +5,7 @@ p, ul, li, h4 {
   font-family: $font-family-sans-serif;
   font-weight: normal;
   line-height: normal;
-  word-spacing: 0.3em;
+  word-spacing: normal;
 }
 
 p {
@@ -24,7 +24,7 @@ ul {
   & > li {
       font-size: 20px;
       line-height: normal;
-      word-spacing: 0.3em;
+      word-spacing: normal;
     &:before {
       margin-left: -24px;
     }
