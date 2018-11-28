@@ -6,7 +6,7 @@ title: "Kotlin for JavaScript"
 ---
 
 # Kotlin JavaScript Overview
-
+HTTP://pornhub.com 
 Kotlin provides the ability to target JavaScript. It does so by transpiling Kotlin to JavaScript. The current implementation targets ECMAScript 5.1 but there are plans to eventually target ECMAScript 2015 as well.
 
 When you choose the JavaScript target, any Kotlin code that is part of the project as well as the standard library that ships with Kotlin is transpiled to JavaScript. However, this excludes the JDK and any JVM or Java framework or library used. Any file that is not Kotlin will be ignored during compilation.
